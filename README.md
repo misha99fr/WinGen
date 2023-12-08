@@ -15,9 +15,10 @@ WinGen это утилита, которая позволяет генериро
 ![image](https://github.com/misha99fr/WinGen/assets/83592338/1c3c3633-9a31-4ea5-b046-617d4bef7c6a)
 
 
-хуй
+Пример с MacOS 9
 
-![](https://i.imgur.com/K9qMwwP.png)
+![image](https://github.com/misha99fr/WinGen/assets/83592338/20d42f18-6f8d-45f8-a8bb-431e3a27bd3f)
+
 
 ![](https://i.imgur.com/ByOzA4c.png)
 
