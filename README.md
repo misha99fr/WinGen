@@ -6,7 +6,9 @@ WinGen это утилита, которая позволяет генериро
 
 Примеры:
 
-![](https://i.imgur.com/3rkfdP8.png)
+![](![image](https://github.com/misha99fr/WinGen/assets/83592338/b4d340db-6398-4217-8f3f-5d93b442d165)
+
+Пример с отключенной кнопкой
 
 ![](https://i.imgur.com/WyQQpy2.png)
 
