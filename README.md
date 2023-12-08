@@ -5,12 +5,17 @@
 WinGen это утилита, которая позволяет генерировать фейковые messagebox'ы
 
 Примеры:
+
 Пример с отключенной кнопкой:
 
 ![image](https://github.com/misha99fr/WinGen/assets/83592338/c8f14e91-41ea-47a1-b93b-bb82f2c4bb7c)
+
 Пример
+
 ![](https://i.imgur.com/WyQQpy2.png)
+
 хуй
+
 ![](https://i.imgur.com/K9qMwwP.png)
 
 ![](https://i.imgur.com/ByOzA4c.png)
