@@ -19,10 +19,13 @@ WinGen это утилита, которая позволяет генериро
 
 ![image](https://github.com/misha99fr/WinGen/assets/83592338/20d42f18-6f8d-45f8-a8bb-431e3a27bd3f)
 
-
+MacWinoid
 ![](https://i.imgur.com/ByOzA4c.png)
 
-![](https://i.imgur.com/CrJ1FBg.png)
+3.1
+
+![image](https://github.com/misha99fr/WinGen/assets/83592338/ffd712fe-0f3a-488c-b5dd-30ef4772abf8)
+
 
 ![](https://user-images.githubusercontent.com/60782515/176369378-0b3fb559-0bee-4d2e-a7ef-caecc4837355.png)
 
