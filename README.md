@@ -20,6 +20,7 @@ WinGen это утилита, которая позволяет генериро
 ![image](https://github.com/misha99fr/WinGen/assets/83592338/20d42f18-6f8d-45f8-a8bb-431e3a27bd3f)
 
 Пример с MacWinoid
+
 ![image](https://github.com/misha99fr/WinGen/assets/83592338/e683fb0d-88dd-41d5-8e74-1cf05aa81a8a)
 
 
@@ -27,9 +28,10 @@ WinGen это утилита, которая позволяет генериро
 
 ![image](https://github.com/misha99fr/WinGen/assets/83592338/dd0ff95b-4d8b-44e3-b931-73ac5a0b66b1)
 
+Пример с Windows 7
 
+![image](https://github.com/misha99fr/WinGen/assets/83592338/5d0aa725-8b9c-4c7a-8940-b56dd63a32a5)
 
-![](https://user-images.githubusercontent.com/60782515/176369378-0b3fb559-0bee-4d2e-a7ef-caecc4837355.png)
 
 [А вот собственно способы отображения](examples.md)
 
