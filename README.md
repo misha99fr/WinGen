@@ -19,7 +19,7 @@ Example errors:
 
 ![](https://user-images.githubusercontent.com/60782515/176369378-0b3fb559-0bee-4d2e-a7ef-caecc4837355.png)
 
-[And more!](examples.md)
+[You can also check](examples.md)
 
 The main file is generate.py, open it in an editor because in its current state, it's just a function dump where you have to go to the end of the file and put what window generating function you want. 
 There are examples in the comments at the bottom, just uncomment any line and see the result.
@@ -55,10 +55,9 @@ There are examples in the comments at the bottom, just uncomment any line and se
 ## Windows 3.1
 * 🔴 Make the titlebar-less error (the one that is really big and appears in the center of the screen) 
 
-## Future OS's
+## Future OSes
 * 🟢 Ubuntu (10.04 and a couple others)
 * 🟠 Windows 95,98,2000
 * 🔴 Windows Vista
 * 🔴 Windows 8
 
-Windows 10 and 11 are not planned to be supported
