@@ -6,13 +6,14 @@ WinGen это утилита, которая позволяет генериро
 
 Примеры:
 
-Пример с отключенной кнопкой:
+Пример с отключенной кнопкой(Windows 7):
 
 ![image](https://github.com/misha99fr/WinGen/assets/83592338/c8f14e91-41ea-47a1-b93b-bb82f2c4bb7c)
 
-Пример
+Пример без кнопок(Windows XP):
 
-![](https://i.imgur.com/WyQQpy2.png)
+![image](https://github.com/misha99fr/WinGen/assets/83592338/1c3c3633-9a31-4ea5-b046-617d4bef7c6a)
+
 
 хуй
 
